@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e13vros
 - 👀 I’m interested in dancing
-- 🌱 I’m currently learning HTMl and CSS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on universitary projects
 - 📫 How to reach me messages
 
